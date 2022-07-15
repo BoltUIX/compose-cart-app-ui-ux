@@ -1,4 +1,10 @@
-# Jetsnack sample
+# compose-cart-app-ui-ux
+Jetsnack is a sample snack ordering app built with Jetpack Compose.
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHnHqNXjyiZ5nS4judhqP55BBdB1GrdkcqAM8KM1q3zer-0JRNGFqxqYglCLt6cOanWdZeWKSpK9B5YmUEHj2xII-8Z5LMXY_RFidJcZE6u_PXpL68ZPY3ElRGL_BQ4lJAkFP67lzSUschf2UC28fNsGK3s26-C70T4VXNRPlWwp0tl-3aPo84Zt6u/s16000/jet%20snacks.jpg" alt="Shopping Cart UI UX" width="100%">
+
+https://www.boltuix.com/2022/07/compose-shopping-cart-ui-ux.html
+
 
 Jetsnack is a sample snack ordering app built with [Jetpack Compose][compose].
 
@@ -53,6 +59,3 @@ Domain types are modelled in the [model package](app/src/main/java/com/example/j
 
 Imagery is sourced from [Unsplash](https://unsplash.com/) and loaded using [coil-accompanist][coil-accompanist].
 
-## Baseline Profiles
-For [Baseline profiles](https://developer.android.com/topic/performance/baselineprofiles), see the [compose-latest](https://github.com/android/compose-samples/tree/compose-latest/Jetsnack) branch.
-2
